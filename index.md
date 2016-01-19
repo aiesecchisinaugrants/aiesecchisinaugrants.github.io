@@ -6,4 +6,4 @@ title: GRANTS Guide
 ## Welcome to GRANTS GUIDE
 
 Email: aiesecchisinaugrants@gmail.com<br />
-<img src="https://36.media.tumblr.com/6d992256e4e31a32d3d2881bc228dfad/tumblr_o17cvi75451uix9buo1_1280.jpg" alt="">
+<img src="https://40.media.tumblr.com/c6a2088592c9e82f74f38ca70eb9bb2a/tumblr_o17b88ISFP1uix9buo1_540.jpg" alt="">
