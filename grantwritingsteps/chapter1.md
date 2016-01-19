@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cum aleg un program de finantari?
+title: Alegerea finantarilor
 ---
 ##Cum aleg un program de finantari?
 <ol>
